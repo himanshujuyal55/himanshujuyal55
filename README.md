@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi there, I'm Himanshu 👋
 
-<!--
-**himanshujuyal55/himanshujuyal55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Data Analyst | Python • SQL • Power BI
 
-Here are some ideas to get you started:
+I enjoy turning raw data into clear, actionable insights through clean queries, exploratory analysis, and interactive dashboards.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 **Currently working on:** End-to-end data analysis projects and interactive Power BI variance & KPI reports
+- 🛠️ **Core Skills:** Python (Pandas, NumPy, Matplotlib), SQL, Power BI, Power Query, Excel
+- 📈 **Interests:** Data Analytics, Business Intelligence, and Algorithmic Market Analysis
+
+---
+
+### Featured Projects
+- **Sales & Variance Dashboard (Power BI):** Interactive waterfall and KPI reporting using Power Query parameters.
+- **Exploratory Data Analysis (Python & SQL):** Data cleaning, trend analysis, and visual storytelling on real-world datasets.
